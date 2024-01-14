@@ -1,0 +1,23 @@
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #e2edff;
+}
+
+#favoriteband {
+    background-color: #e2edff;
+    -webkit-text-stroke:#ffffff;
+}
+
+#neckdeep {
+    position: static;
+    font-weight: 100;
+}
+
+#contact {
+    background-color: #ffffff;
+    padding-bottom: 2rem;
+}
+
+section {
+    padding-top: 5rem;
+}
